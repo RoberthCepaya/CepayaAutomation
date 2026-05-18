@@ -86,7 +86,3 @@ Todos los derechos reservados.
 Este proyecto es de código abierto únicamente para uso personal y educativo. 
 No se autoriza la redistribución, venta o comercialización de este código 
 o sus derivados sin el consentimiento explícito del desarrollador principal.
-
-¡Gracias por pasarte por aquí! Si te sirve alguno de mis repositorios, no olvides dejarle una ⭐ al proyecto.
-
-
