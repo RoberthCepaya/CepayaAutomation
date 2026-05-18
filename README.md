@@ -48,8 +48,8 @@ Módulos avanzados inyectados de forma nativa en el procesador centralizado de m
 
 ## **📈 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoberthCepaya&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de RoberthCepaya" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthCepaya&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoberthCepaya&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de RoberthCepaya" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoberthCepaya&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%"/>
 </p>
 
 <p align="center">
