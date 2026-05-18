@@ -69,6 +69,24 @@ Módulos avanzados inyectados de forma nativa en el procesador centralizado de m
 </p>
 
 ## **🌸 Anime Mood**
-![Anime Gif](https://media.giphy.com/media/ANb7Yg1vYhxMQ/giphy.gif)
+<p align="center">
+  <img src="https://media.tenor.com/97Sclq6fE7gAAAAC/sao-kirito.gif" alt="Kirito SAO" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
+
+## **📜 Licencia y Copyright**
+
+```text
+Copyright (c) 2026 RoberthCepaya / Cepaya-Bot Team.
+Todos los derechos reservados.
+
+Este proyecto es de código abierto únicamente para uso personal y educativo. 
+No se autoriza la redistribución, venta o comercialización de este código 
+o sus derivados sin el consentimiento explícito del desarrollador principal.
 
 ¡Gracias por pasarte por aquí! Si te sirve alguno de mis repositorios, no olvides dejarle una ⭐ al proyecto.
+
+
