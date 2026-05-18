@@ -1,52 +1,74 @@
-# ¡Hola! 👋 Soy [RoberthCepaya]
+# ¡Hola! 👋 Soy RoberthCepaya
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado por los bots de WhatsApp y el anime. Aquí encontrarás mis proyectos, mis intereses y un poco de mi mundo. 🌸
+¡Bienvenido/a a mi perfil de GitHub! Soy desarrollador Full-Stack especializado en la automatización de ecosistemas para WhatsApp y entusiasta del rendimiento premium. Aquí encontrarás mis proyectos de automatización, optimización y mi pasión por el mundo gamer y el anime. 🤖⚡🎮
 
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 
-## **Sobre mí**
-- 🧑‍💻 Me encanta programar bots de WhatsApp.
-- 🌟 Fanático/a del anime (¡mis favoritos son [TAKI] y [KIRITO]!).
-- 📚 Siempre aprendiendo cosas nuevas.
-- 🎮 En mi tiempo libre, me gusta jugar videojuegos y ver series.
+## **⚡ Sobre mí**
+- 🧑‍💻 **Full-Stack Dev:** Especializado en la creación y mantenimiento de bots multi-comando de alto rendimiento utilizando **Node.js** y la librería **Baileys**.
+- ⚙️ **Optimización:** Enfocado en la reducción de consumo de recursos, bypass de restricciones en servidores y automatizaciones permanentes 24/7 en paneles Pterodactyl.
+- 🎮 **Gamer & Tech:** Fanático del hardware de vanguardia, el rendimiento en 4K nativo con DLSS y las buenas partidas.
+- 🌸 **Anime Fan:** Disfruto de buenas historias (¡mis favoritos son Kirito de *SAO* y Taki de *Kimi no Na wa*!).
 
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 
-## **Mis habilidades**
-- 💻 Lenguajes: JavaScript, Python.
-- 🤖 Frameworks: Baileys, Twilio.
-- 🛠 Herramientas: Git, Visual Studio Code.
-  
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+## **🛠️ Tecnologías y Herramientas**
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-regular.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
-## **Proyectos destacados**
-### 🤖 [TAKI - BOT ](git@github.com:RoberthCepaya/TAKI-BOT.git)
-Un bot de WhatsApp que hace [¡Bienvenido/a al repositorio de mi bot de WhatsApp! Este bot está diseñado para hacer tu vida más fácil y divertida con una amplia variedad de funciones. Desde utilidades prácticas hasta entretenimiento, este bot lo tiene todo. ¡Y lo mejor es que estará en constante evolución con nuevas actualizaciones!]. ¡Échale un vistazo!
+* **Especialidades:** Arquitectura de Plugins, Manejo de APIs REST, WebSockets, Gestión de Bases de Datos Locales/JSON, Intercepción Móvil y Web Scrapping.
 
-### 🌸 [Nombre del Proyecto de Anime](enlace_al_repositorio)
-Un proyecto relacionado con el anime, como una base de datos de personajes o una app de recomendaciones.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+## **🚀 Proyectos Destacados**
 
-## **Estadísticas de GitHub**
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+### 🤖 [Cepaya-Bot — Ecosistema Multi-Comando](https://github.com/RoberthCepaya/whatsapp-md-bot)
+El proyecto principal y centro de operaciones del **Cepaya-Bot Team**. Un bot modular modular e inteligente diseñado para correr de forma ininterrumpida.
+* **Características clave:** Auto-visto inteligente de estados 24/7 (Soporte multimedia completo), auto-descargador premium de enlaces (TikTok, IG, FB) y lógica independiente de stickers en grupos.
+* **Stack:** Node.js, Baileys Library, JavaScript Asíncrono.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+### 🎮 [Brat Sticker Plugin & AI Interceptors](https://github.com/RoberthCepaya/TAKI-BOT)
+Módulos avanzados inyectados de forma nativa en el procesador centralizado de mensajes para automatizar interacciones fluidas mediante IA libre sin necesidad de comandos fijos.
 
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 
-## **Contacto**
-¡No dudes en contactarme si quieres colaborar o hablar de bots y anime! 😊
+## **📈 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoberthCepaya&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de RoberthCepaya" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthCepaya&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%"/>
+</p>
 
-- 📧 Correo: [huamanrch@gmail.com](huamanrch@gmail.com)
-- 💬 WhatsApp: [Enlace de WhatsApp](https://wa.me/51918583874)
-- 🌐 Twitter: [@roberthcepaya](https://twitter.com/roberthcepaya)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+## **📬 Conectamos**
+¡Siempre abierto a colaborar en proyectos de automatización, desarrollo de plugins o simplemente hablar de programación, setups y anime! 😊
 
-## **Anime favorito del día**
-![Anime](https://media.giphy.com/media/ANb7Yg1vYhxMQ/giphy.gif)
+* 📧 **Correo:** [huamanrch@gmail.com](mailto:huamanrch@gmail.com)
+* 💬 **WhatsApp Business:** [Contactar en Línea](https://wa.me/51918583874)
+* 🌐 **Comunidad / Canal:** [Cepaya-Bot Updates 🔥](https://wa.me/51918583874)
+* 🐦 **Twitter/X:** [@roberthcepaya](https://twitter.com/roberthcepaya)
 
-[---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 
-¡Gracias por visitar mi perfil! 🎉
+## **🌸 Anime Mood**
+![Anime Gif](https://media.giphy.com/media/ANb7Yg1vYhxMQ/giphy.gif)
+
+¡Gracias por pasarte por aquí! Si te sirve alguno de mis repositorios, no olvides dejarle una ⭐ al proyecto.
